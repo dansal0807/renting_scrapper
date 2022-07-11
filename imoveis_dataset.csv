@@ -1,0 +1,685 @@
+endereco;valor;area;quartos;vagas;banheiros;pagina
+Rua Pedro Américo, 151 - Catete, Rio de Janeiro - RJ;1100.0;36;1;0;1;1
+Rua Dias Ferreira, 559 - Leblon, Rio de Janeiro - RJ;2900.0;68;1;0;2;1
+Avenida Tenente-Coronel Muniz de Aragão, 898 - Anil, Rio de Janeiro - RJ;1200.0;50;1;1;1;1
+Rua Leopoldo Miguez, 174 - Copacabana, Rio de Janeiro - RJ;2000.0;45;1;0;1;1
+Avenida Lúcio Costa, 3150 - Barra da Tijuca, Rio de Janeiro - RJ;2900.0;50;1;1;1;1
+Avenida Henrique Dumont - Ipanema, Rio de Janeiro - RJ;3400.0;43;1;0;1;1
+Copacabana, Rio de Janeiro - RJ;2500.0;25;1;0;1;1
+Rua Guilherme Marconi, 61 - Centro, Rio de Janeiro - RJ;1600.0;80;1;0;1;1
+Avenida Nossa Senhora de Copacabana, 249 - Copacabana, Rio de Janeiro - RJ;2200.0;54;1;0;1;1
+Estrada do Galeão - Jardim Guanabara, Rio de Janeiro - RJ;1000.0;40;1;1;1;1
+Avenida Barão de Guamá, 64 - Realengo, Rio de Janeiro - RJ;600.0;30;1;0;1;1
+Rua Barão de São Francisco, 212 - Andaraí, Rio de Janeiro - RJ;1550.0;65;1;1;2;1
+Rua Belfort Roxo, 169 - Copacabana, Rio de Janeiro - RJ;1500.0;51;1;0;1;1
+Estrada dos Bandeirantes, 8637 - Jacarepaguá, Rio de Janeiro - RJ;800.0;50;1;0;1;1
+Avenida Henrique Valadares, 47 - Centro, Rio de Janeiro - RJ;600.0;29;1;0;1;1
+Rua Almirante Pestana, 70A - Cacuia, Rio de Janeiro - RJ;900.0;36;1;0;1;1
+Rua Paissandu, 59 - Flamengo, Rio de Janeiro - RJ;2400.0;46;1;0;1;1
+Rua Visconde de Pirajá, 318 - Ipanema, Rio de Janeiro - RJ;2400.0;63;1;0;1;1
+Rua Cambuí, 28 - Freguesia, Rio de Janeiro - RJ;1000.0;50;1;1;1;1
+Rua Gabriel Garcia Moreno - São Conrado, Rio de Janeiro - RJ;11900.0;122;1;1;1;1
+Rua Oldegard Sapucáia - Méier, Rio de Janeiro - RJ;1100.0;50;1;1;2;1
+Rua Real Grandeza, 100 - Botafogo, Rio de Janeiro - RJ;3000.0;25;1;0;1;1
+Rua General Venâncio Flores, 481 - Leblon, Rio de Janeiro - RJ;5000.0;70;1;0;2;1
+Rua General Ribeiro da Costa, 230 - Leme, Rio de Janeiro - RJ;2300.0;60;1;1;2;1
+Avenida Marechal Rondon - Rocha, Rio de Janeiro - RJ;1100.0;48;1;1;2;1
+Travessa Chafi Chaia, 199 - Campo Grande, Rio de Janeiro - RJ;1300.0;40;1;1;1;1
+Avenida Geremário Dantas, 189 - Tanque, Rio de Janeiro - RJ;1400.0;100;1;2;2;1
+Rua Maestro Francisco Braga, 216 - Copacabana, Rio de Janeiro - RJ;1300.0;45;1;0;1;1
+Rua Humberto de Campos - Leblon, Rio de Janeiro - RJ;2990.0;25;1;0;1;1
+Rua Doutor Marques Canário, 24 - Leblon, Rio de Janeiro - RJ;2990.0;40;1;1;1;1
+Avenida Engenheiro Souza Filho, 4729 - Itanhangá, Rio de Janeiro - RJ;4500.0;45;1;1;1;1
+Avenida Lúcio Costa, 4700 - Barra da Tijuca, Rio de Janeiro - RJ;3200.0;53;1;1;1;1
+Rua Uruguai - Tijuca, Rio de Janeiro - RJ;1000.0;45;1;0;1;1
+Tijuca, Rio de Janeiro - RJ;1550.0;50;1;0;1;1
+Rua Conde de Porto Alegre - Rocha, Rio de Janeiro - RJ;1200.0;50;1;0;1;1
+Praia Botafogo - Botafogo, Rio de Janeiro - RJ;2000.0;40;1;0;1;1
+Rua da Relação, 43 - Centro, Rio de Janeiro - RJ;1900.0;33;1;0;1;2
+Rua Barata Ribeiro, 450 - Copacabana, Rio de Janeiro - RJ;2620.0;31;1;0;1;2
+Rua Barata Ribeiro, 292 - Copacabana, Rio de Janeiro - RJ;2400.0;51;1;0;1;2
+Rua Barão, 663 - Jacarepaguá, Rio de Janeiro - RJ;500.0;50;1;0;1;2
+Rua Aprazível, 28 - Santa Teresa, Rio de Janeiro - RJ;2900.0;43;1;0;1;2
+Rua Humberto de Campos, 942 - Leblon, Rio de Janeiro - RJ;2000.0;39;1;0;1;2
+Avenida Nossa Senhora de Copacabana, 380 - Copacabana, Rio de Janeiro - RJ;2200.0;44;1;0;1;2
+Rua Silveira Martins, 24 - Flamengo, Rio de Janeiro - RJ;1900.0;45;1;0;2;2
+Rua Citiso, 0 - Rio Comprido, Rio de Janeiro - RJ;980.0;40;1;0;1;2
+Barra da Tijuca, Rio de Janeiro - RJ;3000.0;70;1;1;1;2
+Praia Botafogo, 484 - Botafogo, Rio de Janeiro - RJ;2400.0;45;1;0;1;2
+Rua Lauro Muller, 46 - Botafogo, Rio de Janeiro - RJ;2250.0;40;1;0;1;2
+Rua Marechal Mascarenhas de Morais, 174 - Copacabana, Rio de Janeiro - RJ;2000.0;48;1;0;1;2
+Flamengo, Rio de Janeiro - RJ;1300000.0;70;1;0;1;2
+Avenida Geremário Dantas, 819 - Pechincha, Rio de Janeiro - RJ;950.0;54;1;1;1;2
+Avenida Amado Baía, 35 - Taquara, Rio de Janeiro - RJ;650.0;45;1;0;1;2
+Rua General Roca, 321 - Tijuca, Rio de Janeiro - RJ;1200.0;29;1;1;1;2
+Rua Conselheiro Lafaiete, 61 - Copacabana, Rio de Janeiro - RJ;2700.0;50;1;0;1;2
+Rua Prudente de Morais, 368 - Ipanema, Rio de Janeiro - RJ;4800.0;55;1;1;1;2
+Avenida Jornalista Tim Lopes, 255 - Barra da Tijuca, Rio de Janeiro - RJ;4980.0;124;1;2;1;2
+Avenida Prado Júnior, 281 - Copacabana, Rio de Janeiro - RJ;2500.0;32;1;1;1;2
+Rua Sílvio Romero, 8 - Santa Teresa, Rio de Janeiro - RJ;1200.0;41;1;1;1;2
+Santa Teresa, Rio de Janeiro - RJ;650.0;25;1;0;1;2
+Rua Joaquim Silva, 132 - Centro, Rio de Janeiro - RJ;3200.0;85;1;0;1;2
+Avenida Nossa Senhora de Copacabana, 427 - Copacabana, Rio de Janeiro - RJ;1600.0;45;1;0;1;2
+Avenida Gomes Freire, 558 - Lapa, Rio de Janeiro - RJ;1500.0;35;1;1;1;2
+Rua General Canabarro - Maracanã, Rio de Janeiro - RJ;850.0;52;1;1;2;2
+Estrada do Rio Grande - Taquara, Rio de Janeiro - RJ;1500.0;36;1;0;1;2
+Rua Santiago, 161 - Penha, Rio de Janeiro - RJ;750.0;50;1;1;1;2
+Rua Silva Castro - Copacabana, Rio de Janeiro - RJ;1600.0;39;1;0;1;2
+Avenida Epitácio Pessoa - Lagoa, Rio de Janeiro - RJ;3100.0;60;1;1;2;2
+Avenida Gilka Machado, 149 - Recreio Dos Bandeirantes, Rio de Janeiro - RJ;1100.0;40;1;0;1;2
+Rua Voluntários da Pátria, 450 - Humaitá, Rio de Janeiro - RJ;1300.0;30;1;0;1;2
+Rua Maici, 158 - Tauá, Rio de Janeiro - RJ;1400.0;45;1;0;1;2
+Avenida Bartolomeu Mitre - Leblon, Rio de Janeiro - RJ;7500.0;114;1;1;2;2
+Rua Marquês de Abrantes, 26 - Flamengo, Rio de Janeiro - RJ;2000.0;49;1;0;1;2
+Catete, Rio de Janeiro - RJ;1800.0;38;1;0;1;3
+Avenida Augusto Severo, 220 - Glória, Rio de Janeiro - RJ;600.0;23;1;0;1;3
+Rua Pinheiro Machado, 22 - Laranjeiras, Rio de Janeiro - RJ;3500.0;95;1;1;2;3
+Avenida Braz de Pina, 1221 - Vila da Penha, Rio de Janeiro - RJ;700.0;60;1;1;1;3
+Rua Manuel de Freitas, 72 - Irajá, Rio de Janeiro - RJ;600.0;60;1;1;1;3
+Rua das Laranjeiras, 371 - Laranjeiras, Rio de Janeiro - RJ;1800.0;50;1;0;2;3
+Rua Francisco Sá, 42 - Copacabana, Rio de Janeiro - RJ;2100.0;54;1;0;1;3
+Rua Francisco Otaviano, 155 - Ipanema, Rio de Janeiro - RJ;4200.0;43;1;1;1;3
+Avenida Lúcio Costa - Barra da Tijuca, Rio de Janeiro - RJ;3800.0;60;1;1;1;3
+Rua Marquês de Olinda, 106 - Botafogo, Rio de Janeiro - RJ;1300.0;36;1;0;1;3
+Tijuca, Rio de Janeiro - RJ;1200.0;45;1;0;1;3
+Estrada da Boiuna - Taquara, Rio de Janeiro - RJ;750.0;10;1;0;1;3
+Pechincha, Rio de Janeiro - RJ;800.0;42;1;1;1;3
+Rua Barata Ribeiro, 153 - Copacabana, Rio de Janeiro - RJ;230.0;40;1;0;1;3
+Rua Serafim Valandro, 6 - Botafogo, Rio de Janeiro - RJ;1200.0;25;1;0;1;3
+Avenida Bartolomeu Mitre, 990 - Leblon, Rio de Janeiro - RJ;2300.0;50;1;0;1;3
+Rua Ministro Viveiros de Castro - Copacabana, Rio de Janeiro - RJ;1400.0;40;1;0;1;3
+Rua Sá Ferreira, 228 - Copacabana, Rio de Janeiro - RJ;1400.0;35;1;0;1;3
+Praia Botafogo, 430 - Botafogo, Rio de Janeiro - RJ;2100.0;44;1;0;1;3
+Praia Botafogo - Botafogo, Rio de Janeiro - RJ;1000.0;25;1;0;1;3
+Rua Pedro Américo, 48 - Catete, Rio de Janeiro - RJ;750.0;27;1;0;1;3
+Rua Daniel Carneiro - Engenho De Dentro, Rio de Janeiro - RJ;700.0;30;1;0;1;3
+Rua Álvaro Alvim, 37 - Centro, Rio de Janeiro - RJ;600.0;36;1;0;1;3
+Rua Marquês de Abrantes, 199 - Flamengo, Rio de Janeiro - RJ;2000.0;40;1;0;1;3
+Rua Belfort Roxo, 58 - Copacabana, Rio de Janeiro - RJ;2000.0;46;1;0;1;3
+Rua Aprazível, 28 - Santa Teresa, Rio de Janeiro - RJ;1900.0;18;1;0;1;3
+Rua Senador Vergueiro, 98 - Flamengo, Rio de Janeiro - RJ;2200.0;60;1;0;2;3
+Estrada Adhemar Bebiano, 4539 - Engenho Da Rainha, Rio de Janeiro - RJ;850.0;45;1;1;1;3
+Avenida Prefeito Dulcídio Cardoso, 2800 - Barra da Tijuca, Rio de Janeiro - RJ;2400.0;64;1;1;1;3
+Rua Barata Ribeiro - Copacabana, Rio de Janeiro - RJ;1900.0;44;1;0;2;3
+Rua Maici, 158 - Tauá, Rio de Janeiro - RJ;1100.0;45;1;0;1;3
+Rua Divino Salvador, 234 - Piedade, Rio de Janeiro - RJ;450.0;20;1;0;1;3
+Rua Santa Clara, 308 - Copacabana, Rio de Janeiro - RJ;1900.0;38;1;0;1;3
+Rua Figueiredo Magalhães - Copacabana, Rio de Janeiro - RJ;1700.0;53;1;1;1;3
+Rua André Cavalcanti, 13 - Centro, Rio de Janeiro - RJ;2000.0;48;1;0;1;3
+Tijuca, Rio de Janeiro - RJ;1400.0;51;1;0;1;3
+Rua Figueiredo Magalhães - Copacabana, Rio de Janeiro - RJ;1700.0;53;1;1;1;4
+Rua André Cavalcanti, 13 - Centro, Rio de Janeiro - RJ;2000.0;48;1;0;1;4
+Tijuca, Rio de Janeiro - RJ;1400.0;51;1;0;1;4
+Praia Botafogo - Botafogo, Rio de Janeiro - RJ;750.0;20;1;0;1;4
+Ipanema, Rio de Janeiro - RJ;2400.0;75;1;0;2;4
+Rua Riachuelo, 136 - Centro, Rio de Janeiro - RJ;800.0;20;1;0;1;4
+Rua Clementina de Jesus - Recreio Dos Bandeirantes, Rio de Janeiro - RJ;1100.0;40;1;0;1;4
+Avenida Oswaldo Cruz - Flamengo, Rio de Janeiro - RJ;1950.0;51;1;0;1;4
+Rua Figueiredo Magalhães, 440 - Copacabana, Rio de Janeiro - RJ;1500.0;40;1;0;1;4
+Copacabana, Rio de Janeiro - RJ;1350.0;40;1;0;1;4
+Rua Filgueiras Lima, 71 - Riachuelo, Rio de Janeiro - RJ;780.0;34;1;1;1;4
+Rua Silva Teles - Andaraí, Rio de Janeiro - RJ;1000.0;40;1;1;1;4
+Rua Belfort Roxo, 406 - Copacabana, Rio de Janeiro - RJ;1700.0;52;1;0;1;4
+Avenida Lúcio Costa - Barra da Tijuca, Rio de Janeiro - RJ;19000.0;130;1;2;2;4
+Rua Curupaiti, 515 - Engenho De Dentro, Rio de Janeiro - RJ;650.0;40;1;0;1;4
+Estrada dos Teixeiras, 80 - Taquara, Rio de Janeiro - RJ;850.0;45;1;1;1;4
+Rua Ferreira Viana, 24 - Flamengo, Rio de Janeiro - RJ;1850.0;45;1;0;1;4
+Flamengo, Rio de Janeiro - RJ;2300.0;60;1;1;2;4
+Avenida General San Martin, 700 - Leblon, Rio de Janeiro - RJ;8000.0;44;1;1;2;4
+Rua das Laranjeiras, 371 - Laranjeiras, Rio de Janeiro - RJ;1500.0;31;1;1;1;4
+Avenida Ayrton Senna, 170 - Barra da Tijuca, Rio de Janeiro - RJ;4500.0;60;1;2;1;4
+Rua Domingos Ferreira - Copacabana, Rio de Janeiro - RJ;1500.0;37;1;0;1;4
+Boulevard Vinte e Oito de Setembro, 280 - Vila Isabel, Rio de Janeiro - RJ;600.0;26;1;0;1;4
+Rua Barão de Sertorio, 67 - Rio Comprido, Rio de Janeiro - RJ;800.0;30;1;0;1;4
+Rua Valparaíso - Tijuca, Rio de Janeiro - RJ;1450.0;47;1;0;2;4
+Tijuca, Rio de Janeiro - RJ;1700.0;63;1;1;2;4
+Tijuca, Rio de Janeiro - RJ;1300.0;40;1;0;1;4
+Rua Silveira Martins, 147 - Flamengo, Rio de Janeiro - RJ;1800.0;35;1;0;1;4
+Avenida Geremário Dantas - Pechincha, Rio de Janeiro - RJ;1000.0;60;1;1;1;4
+Boulevard Vinte e Oito de Setembro, 385 - Vila Isabel, Rio de Janeiro - RJ;1200.0;45;1;0;1;4
+Barra da Tijuca, Rio de Janeiro - RJ;3200.0;38;1;1;1;4
+Rua Costa Bastos, 34 - Santa Teresa, Rio de Janeiro - RJ;600.0;25;1;0;1;4
+Rua Caruso, 12 - Tijuca, Rio de Janeiro - RJ;1400.0;40;1;0;1;4
+Vila Isabel, Rio de Janeiro - RJ;1300.0;50;1;0;1;4
+Rua do Humaitá, 282 - Humaitá, Rio de Janeiro - RJ;2500.0;56;1;1;2;4
+Rua Barão de Mesquita - Vila Isabel, Rio de Janeiro - RJ;1100.0;44;1;0;1;4
+Rua Barata Ribeiro, 222 - Copacabana, Rio de Janeiro - RJ;2500.0;55;1;1;1;5
+Boulevard Vinte e Oito de Setembro, 280 - Vila Isabel, Rio de Janeiro - RJ;600.0;26;1;0;1;5
+Rua Barão de Sertorio, 67 - Rio Comprido, Rio de Janeiro - RJ;800.0;30;1;0;1;5
+Rua Valparaíso - Tijuca, Rio de Janeiro - RJ;1450.0;47;1;0;2;5
+Rua Jornalista Henrique Cordeiro, 270 - Barra da Tijuca, Rio de Janeiro - RJ;2400.0;65;1;1;2;5
+Avenida Geremário Dantas - Pechincha, Rio de Janeiro - RJ;1000.0;60;1;1;1;5
+Centro, Rio de Janeiro - RJ;800.0;55;1;0;1;5
+Praia Botafogo, 430 - Botafogo, Rio de Janeiro - RJ;2100.0;44;1;0;1;5
+Rua Conde de Bonfim - Tijuca, Rio de Janeiro - RJ;2100.0;69;1;1;1;5
+Rua Silva Mourão, 89 - Cachambi, Rio de Janeiro - RJ;1390.0;50;1;1;1;5
+Rua Caruso, 12 - Tijuca, Rio de Janeiro - RJ;1400.0;40;1;0;1;5
+Vila Isabel, Rio de Janeiro - RJ;1300.0;50;1;0;1;5
+Rua Divino Salvador, 234 - Piedade, Rio de Janeiro - RJ;500.0;20;1;0;1;5
+Rua Sá Ferreira - Copacabana, Rio de Janeiro - RJ;1850.0;40;1;0;1;5
+Avenida Henrique Dumont, 85 - Ipanema, Rio de Janeiro - RJ;3000.0;47;1;0;1;5
+Rua Silveira Martins - Flamengo, Rio de Janeiro - RJ;1400.0;37;1;0;1;5
+Rua Frei Luiz Alevato, 498 - Taquara, Rio de Janeiro - RJ;700.0;41;1;1;1;5
+Rua Benjamim Constant, 135 - Glória, Rio de Janeiro - RJ;1250.0;35;1;0;1;5
+Tijuca, Rio de Janeiro - RJ;1500.0;50;1;0;1;5
+Rua Risoleta Neves, 27 - Recreio Dos Bandeirantes, Rio de Janeiro - RJ;1150.0;26;1;0;1;5
+Avenida Ernesto Trotta - Recreio Dos Bandeirantes, Rio de Janeiro - RJ;1400.0;32;1;0;1;5
+Avenida Gilka Machado, 149 - Recreio Dos Bandeirantes, Rio de Janeiro - RJ;1000.0;40;1;0;1;5
+Tijuca, Rio de Janeiro - RJ;1200.0;45;1;0;1;5
+Rua das Laranjeiras - Laranjeiras, Rio de Janeiro - RJ;2200.0;70;1;1;1;5
+Rua Voluntários da Pátria, 415 - Botafogo, Rio de Janeiro - RJ;2500.0;53;1;0;1;5
+Recreio Dos Bandeirantes, Rio de Janeiro - RJ;600.0;30;1;0;1;5
+Rua Costa Bastos, 34 - Santa Teresa, Rio de Janeiro - RJ;750.0;25;1;0;1;5
+Rua Tomás Cerqueira, 120 - Paquetá, Rio de Janeiro - RJ;1200.0;50;1;0;1;5
+Rua Doutor Bulhões, 444 - Engenho De Dentro, Rio de Janeiro - RJ;900.0;45;1;1;1;5
+Avenida Venceslau Brás - Botafogo, Rio de Janeiro - RJ;1800.0;40;1;0;1;5
+Rua Navarro da Costa, 224 - Marechal Hermes, Rio de Janeiro - RJ;900.0;50;1;1;1;5
+Rua do Governo, 676 - Realengo, Rio de Janeiro - RJ;500.0;45;1;1;1;5
+Rua Correa Dutra - Catete, Rio de Janeiro - RJ;1400.0;40;1;0;1;5
+Rua Campos Sales, 37 - Tijuca, Rio de Janeiro - RJ;1000.0;39;1;0;1;5
+Rua Figueiredo Magalhães - Copacabana, Rio de Janeiro - RJ;1700.0;53;1;1;1;5
+Rua General Roca - Tijuca, Rio de Janeiro - RJ;1600.0;60;1;1;2;5
+Avenida Nossa Senhora de Fátima - Centro, Rio de Janeiro - RJ;1450.0;30;1;0;1;6
+Catete, Rio de Janeiro - RJ;1400.0;35;1;0;1;6
+Leme, Rio de Janeiro - RJ;2200.0;50;1;0;1;6
+Praia Botafogo - Botafogo, Rio de Janeiro - RJ;1600.0;36;1;0;1;6
+Rua Jornalista Henrique Cordeiro, 270 - Barra da Tijuca, Rio de Janeiro - RJ;2400.0;65;1;1;2;6
+Rua Aníbal de Mendonça, 16 - Ipanema, Rio de Janeiro - RJ;2200.0;30;1;0;1;6
+Rua Sá Ferreira - Copacabana, Rio de Janeiro - RJ;1850.0;40;1;0;1;6
+Rua Santo Amaro, 172 - Glória, Rio de Janeiro - RJ;1000.0;35;1;0;1;6
+Avenida Lúcio Costa - Barra da Tijuca, Rio de Janeiro - RJ;3000.0;48;1;1;1;6
+Rua Visconde de Pirajá, 207 - Ipanema, Rio de Janeiro - RJ;3700.0;60;1;1;2;6
+Rua Barão de Mesquita, 463 - Tijuca, Rio de Janeiro - RJ;1250.0;44;1;0;1;6
+Rua Barão de São Francisco, 20 - Andaraí, Rio de Janeiro - RJ;1350.0;65;1;0;1;6
+Rua Buarque de Macedo, 53 - Flamengo, Rio de Janeiro - RJ;1800.0;32;1;0;1;6
+Rua Fonseca, 1030 - Bangu, Rio de Janeiro - RJ;700.0;45;1;1;1;6
+Rua Júlio de Castilhos - Copacabana, Rio de Janeiro - RJ;2400.0;38;1;0;1;6
+Leblon, Rio de Janeiro - RJ;5000.0;50;1;0;1;6
+Rua José Bonifácio, 685 - Todos os Santos, Rio de Janeiro - RJ;1300.0;41;1;1;1;6
+Estrada dos Três Rios, 830 - Freguesia- Jacarepaguá, Rio de Janeiro - RJ;1600.0;39;1;1;1;6
+Avenida Vicente de Carvalho, 995 - Vila da Penha, Rio de Janeiro - RJ;700.0;50;1;0;1;6
+Rua Lópes Quintas, 243 - Jardim Botânico, Rio de Janeiro - RJ;2000.0;25;1;0;1;6
+Avenida Lúcio Costa - Barra da Tijuca, Rio de Janeiro - RJ;2900.0;66;1;1;1;6
+Rua Brasiléia, 133 - Braz de Pina, Rio de Janeiro - RJ;750.0;60;1;0;1;6
+Avenida das Américas, 19992 - Recreio Dos Bandeirantes, Rio de Janeiro - RJ;1500.0;32;1;1;1;6
+Rua Barão de Iguatemi, 288 - Praça da Bandeira, Rio de Janeiro - RJ;990.0;70;1;0;1;6
+Rua Senador Vergueiro - Flamengo, Rio de Janeiro - RJ;3500.0;50;1;0;1;6
+Rua Barata Ribeiro, 463 - Copacabana, Rio de Janeiro - RJ;950.0;20;1;0;1;6
+Rua Professor Azevedo Marques - Leblon, Rio de Janeiro - RJ;4000.0;55;1;1;1;6
+Rua Santa Clara, 212 - Copacabana, Rio de Janeiro - RJ;3750.0;62;1;1;1;6
+Avenida Cláudio Besserman Vianna, 3 - Jacarepaguá, Rio de Janeiro - RJ;1800.0;48;1;1;1;6
+Rua São Clemente, 10 - Botafogo, Rio de Janeiro - RJ;2300.0;48;1;0;1;6
+Rua Bento Lisboa, 161 - Flamengo, Rio de Janeiro - RJ;200.0;34;1;0;1;6
+Avenida Carlos Meziano, 337 - Ilha do Governador, Rio de Janeiro - RJ;1200.0;35;1;1;1;6
+Copacabana, Rio de Janeiro - RJ;1700.0;38;1;0;1;6
+Avenida Nossa Senhora de Copacabana - Copacabana, Rio de Janeiro - RJ;2000.0;40;1;0;1;6
+Rua Piragibe Frota Aguiar - Copacabana, Rio de Janeiro - RJ;2500.0;52;1;0;1;6
+Rua Maxwell, 114 - Vila Isabel, Rio de Janeiro - RJ;1300.0;46;1;0;1;6
+Rua Senador Vergueiro, 210 - Flamengo, Rio de Janeiro - RJ;2200.0;30;1;0;1;7
+Rua Sousa Dantas, 21 - São Francisco Xavier, Rio de Janeiro - RJ;1250.0;33;1;0;1;7
+Tijuca, Rio de Janeiro - RJ;1500.0;50;1;0;1;7
+Ipanema, Rio de Janeiro - RJ;8500.0;122;1;1;3;7
+Copacabana, Rio de Janeiro - RJ;1200.0;30;1;0;1;7
+Rua Gonçalves dos Santos, 63 - Penha, Rio de Janeiro - RJ;900.0;30;1;0;1;7
+Rua Senador Vergueiro, 98 - Flamengo, Rio de Janeiro - RJ;2200.0;60;1;0;2;7
+Rua Tragopana, 69 - Guadalupe, Rio de Janeiro - RJ;700.0;35;1;0;2;7
+Boulevard Vinte e Oito de Setembro, 280 - Vila Isabel, Rio de Janeiro - RJ;750.0;26;1;0;1;7
+Rua Farani, 3 - Botafogo, Rio de Janeiro - RJ;2300.0;31;1;0;1;7
+Avenida Lúcio Costa - Barra da Tijuca, Rio de Janeiro - RJ;3800.0;60;1;1;1;7
+Rua José Bonifácio, 685 - Todos os Santos, Rio de Janeiro - RJ;1300.0;41;1;1;1;7
+Rua do Resende, 127 - Centro, Rio de Janeiro - RJ;600.0;20;1;0;1;7
+Rua Filgueiras Lima, 71 - Riachuelo, Rio de Janeiro - RJ;780.0;34;1;1;1;7
+Avenida Bartolomeu Mitre, 990 - Leblon, Rio de Janeiro - RJ;2300.0;50;1;0;1;7
+Rua Siqueira Campos - Copacabana, Rio de Janeiro - RJ;1500.0;45;1;0;1;7
+Rua do Fialho, 15 - Glória, Rio de Janeiro - RJ;1300.0;26;1;0;1;7
+Praia Botafogo - Botafogo, Rio de Janeiro - RJ;1600.0;36;1;0;1;7
+Rua Siqueira Campos, 253 - Copacabana, Rio de Janeiro - RJ;1500.0;60;1;1;1;7
+Centro, Rio de Janeiro - RJ;1500.0;25;1;0;1;7
+Avenida Bartolomeu Mitre, 455 - Leblon, Rio de Janeiro - RJ;7500.0;150;1;1;2;7
+Centro, Rio de Janeiro - RJ;450.0;68;1;0;1;7
+Estrada dos Bandeirantes - Curicica, Rio de Janeiro - RJ;2300.0;37;1;1;1;7
+Rua Haddock Lobo, 458 - Tijuca, Rio de Janeiro - RJ;1200.0;60;1;0;1;7
+Rua Sílvio Romero, 8 - Santa Teresa, Rio de Janeiro - RJ;1200.0;41;1;1;1;7
+Tijuca, Rio de Janeiro - RJ;1200.0;50;1;0;1;7
+Avenida Prado Júnior - Copacabana, Rio de Janeiro - RJ;1600.0;30;1;0;1;7
+Flamengo, Rio de Janeiro - RJ;1800.0;45;1;0;1;7
+Rua Maestro Francisco Braga, 380 - Copacabana, Rio de Janeiro - RJ;1700.0;45;1;1;1;7
+Rua Dona Mariana, 79 - Botafogo, Rio de Janeiro - RJ;2600.0;40;1;0;1;7
+Rua Miguel Lemos, 91 - Copacabana, Rio de Janeiro - RJ;2000.0;53;1;0;1;7
+Avenida Gilka Machado, 149 - Recreio Dos Bandeirantes, Rio de Janeiro - RJ;680.0;30;1;0;1;7
+Avenida Nossa Senhora de Copacabana, 1100 - Copacabana, Rio de Janeiro - RJ;1500.0;40;1;0;1;7
+Avenida Nossa Senhora de Copacabana, 387 - Copacabana, Rio de Janeiro - RJ;1100.0;32;1;0;1;7
+Avenida Vicente de Carvalho, 995 - Vila da Penha, Rio de Janeiro - RJ;700.0;50;1;0;1;7
+Rua Rodolfo Dantas, 6 - Copacabana, Rio de Janeiro - RJ;2700.0;74;1;0;1;7
+Rua Haia - Tauá, Rio de Janeiro - RJ;1000.0;37;1;0;1;8
+Jacarepaguá, Rio de Janeiro - RJ;2000.0;36;1;1;1;8
+Rua Uruguai, 94 - Vila Isabel, Rio de Janeiro - RJ;1650.0;67;1;1;2;8
+Centro, Rio de Janeiro - RJ;1600.0;45;1;1;1;8
+Rua Fonseca, 1030 - Bangu, Rio de Janeiro - RJ;700.0;45;1;1;1;8
+Rua Daniel Carneiro - Engenho De Dentro, Rio de Janeiro - RJ;700.0;30;1;0;1;8
+Rua Joaquim Nabuco, 91 - Copacabana, Rio de Janeiro - RJ;2100.0;33;1;0;1;8
+Rua Ronald de Carvalho, 232 - Copacabana, Rio de Janeiro - RJ;2100.0;35;1;0;1;8
+Rua Senador Vergueiro - Flamengo, Rio de Janeiro - RJ;3500.0;50;1;0;1;8
+Barra da Tijuca, Rio de Janeiro - RJ;4000.0;10;1;1;1;8
+Rua Barão de Itambi, 55 - Botafogo, Rio de Janeiro - RJ;2850.0;50;1;1;2;8
+Avenida Nelson Cardoso, 1325 - Taquara, Rio de Janeiro - RJ;1300.0;72;1;0;1;8
+Rua das Laranjeiras, 336 - Laranjeiras, Rio de Janeiro - RJ;850.0;25;1;0;1;8
+Rua Barata Ribeiro, 316 - Copacabana, Rio de Janeiro - RJ;1400.0;33;1;1;1;8
+Rua Estevão Silva, 203 - Cachambi, Rio de Janeiro - RJ;870.0;50;1;1;1;8
+Avenida Gomes Freire - Lapa, Rio de Janeiro - RJ;1550.0;37;1;0;1;8
+Rua do Resende - Centro, Rio de Janeiro - RJ;800.0;37;1;0;1;8
+Estrada da Gávea - São Conrado, Rio de Janeiro - RJ;2500.0;58;1;1;1;8
+Avenida Calógeras, 12 - Centro, Rio de Janeiro - RJ;1000.0;50;1;0;1;8
+Centro, Rio de Janeiro - RJ;980.0;34;1;0;1;8
+Tijuca, Rio de Janeiro - RJ;1100.0;51;1;0;2;8
+Avenida Venceslau Brás, 18 - Botafogo, Rio de Janeiro - RJ;1800.0;48;1;0;2;8
+Rua Carlos Sampaio - Centro, Rio de Janeiro - RJ;800.0;22;1;0;1;8
+Rua Santo Amaro, 196 - Glória, Rio de Janeiro - RJ;900.0;30;1;0;1;8
+Copacabana, Rio de Janeiro - RJ;1700.0;30;1;0;1;8
+Rua Miranda Vale, 109 - Del Castilho, Rio de Janeiro - RJ;800.0;48;1;0;1;8
+Avenida Atlântica - Copacabana, Rio de Janeiro - RJ;2000.0;30;1;0;1;8
+Rua Clementina de Jesus - Recreio Dos Bandeirantes, Rio de Janeiro - RJ;1100.0;40;1;0;1;8
+Rua Buarque de Macedo, 48 - Flamengo, Rio de Janeiro - RJ;1500.0;33;1;0;1;8
+Rua Voluntários da Pátria, 450 - Humaitá, Rio de Janeiro - RJ;1500.0;30;1;0;1;8
+Boulevard Vinte e Oito de Setembro, 181 - Vila Isabel, Rio de Janeiro - RJ;1800.0;42;1;0;1;8
+Avenida Dom Hélder Câmara, 7912 - Piedade, Rio de Janeiro - RJ;500.0;25;1;0;1;8
+Realengo, Rio de Janeiro - RJ;600.0;55;1;0;1;8
+Rua Felipe de Oliveira - Copacabana, Rio de Janeiro - RJ;1600.0;38;1;0;1;8
+Copacabana, Rio de Janeiro - RJ;1700.0;38;1;0;1;8
+Rua Correa Dutra - Flamengo, Rio de Janeiro - RJ;1500.0;45;1;0;1;8
+Rua Figueiredo Magalhães - Copacabana, Rio de Janeiro - RJ;2300.0;45;1;0;2;9
+Rua Maria José, 1048 - Madureira, Rio de Janeiro - RJ;800.0;40;1;0;1;9
+Rua Marquês de Valença, 166 - Tijuca, Rio de Janeiro - RJ;1200.0;45;1;0;2;9
+Avenida Ataulfo de Paiva, 50 - Leblon, Rio de Janeiro - RJ;2800.0;60;1;0;1;9
+Avenida Dom Hélder Câmara - Piedade, Rio de Janeiro - RJ;800.0;45;1;0;1;9
+Rua Antônio Pinto da Mota - Tijuca, Rio de Janeiro - RJ;1000.0;42;1;0;1;9
+Rua Santa Clara, 0 - Copacabana, Rio de Janeiro - RJ;1600.0;30;1;0;1;9
+Avenida Nossa Senhora de Copacabana, 1150 - Copacabana, Rio de Janeiro - RJ;1590.0;42;1;0;1;9
+Rua Tenente Possolo, 0 - Centro, Rio de Janeiro - RJ;550.0;22;1;0;1;9
+Rua Gerbera - Rio Comprido, Rio de Janeiro - RJ;800.0;45;1;0;1;9
+Rua Silveira Martins - Flamengo, Rio de Janeiro - RJ;2000.0;48;1;0;1;9
+Botafogo, Rio de Janeiro - RJ;4300.0;35;1;1;1;9
+Recreio Dos Bandeirantes, Rio de Janeiro - RJ;2500.0;60;1;1;1;9
+Rua Silveira Martins - Flamengo, Rio de Janeiro - RJ;1400.0;37;1;0;1;9
+Rua Borda do Mato, 293 - Grajaú, Rio de Janeiro - RJ;1050.0;45;1;0;2;9
+Rua Andrade Pertence, 42 - Catete, Rio de Janeiro - RJ;1700.0;55;1;0;1;9
+Rua Figueiredo Magalhães, 121 - Copacabana, Rio de Janeiro - RJ;2100.0;65;1;0;2;9
+Rua José Higino, 331 - Tijuca, Rio de Janeiro - RJ;1250.0;55;1;0;2;9
+Rua Getúlio, 321 - Méier, Rio de Janeiro - RJ;800.0;46;1;1;1;9
+Estrada do Pontal, 7100 - Recreio Dos Bandeirantes, Rio de Janeiro - RJ;2200.0;54;1;1;1;9
+Rua Voluntários da Pátria, 415 - Botafogo, Rio de Janeiro - RJ;2500.0;53;1;0;1;9
+Estrada do Cafundá, 1757 - Taquara, Rio de Janeiro - RJ;600.0;31;1;1;1;9
+Rua Divino Salvador, 234 - Piedade, Rio de Janeiro - RJ;500.0;20;1;0;1;9
+Largo da Lapa, 200 - Centro, Rio de Janeiro - RJ;750.0;25;1;0;1;9
+Taquara, Rio de Janeiro - RJ;800.0;45;1;1;1;9
+Rua Silveira Martins - Flamengo, Rio de Janeiro - RJ;1500.0;40;1;0;1;9
+Avenida Lúcio Costa - Barra da Tijuca, Rio de Janeiro - RJ;3000.0;46;1;1;1;9
+Rua Barão de Mesquita, 746 - Andaraí, Rio de Janeiro - RJ;900.0;28;1;0;1;9
+Rua São Manuel - Botafogo, Rio de Janeiro - RJ;2600.0;36;1;1;1;9
+Rua Pedro Américo - Catete, Rio de Janeiro - RJ;1100.0;20;1;0;1;9
+Rua Marco Polo, 157 - Vila da Penha, Rio de Janeiro - RJ;1600.0;42;1;0;1;9
+Rua das Palmeiras, 73 - Botafogo, Rio de Janeiro - RJ;2500.0;70;1;1;1;9
+Rua Visconde de Pirajá, 525 - Ipanema, Rio de Janeiro - RJ;2100.0;40;1;0;1;9
+Avenida Bartolomeu Mitre, 455 - Leblon, Rio de Janeiro - RJ;7500.0;150;1;1;2;9
+Glória, Rio de Janeiro - RJ;1154.0;30;1;0;1;9
+Rua Real Grandeza - Botafogo, Rio de Janeiro - RJ;120.0;22;1;0;1;9
+Estrada do Pontal, 7100 - Recreio Dos Bandeirantes, Rio de Janeiro - RJ;2200.0;54;1;1;1;10
+Copacabana, Rio de Janeiro - RJ;1200.0;30;1;0;1;10
+Rua das Laranjeiras, 371 - Laranjeiras, Rio de Janeiro - RJ;1500.0;31;1;1;1;10
+Rua Silveira Martins - Flamengo, Rio de Janeiro - RJ;1500.0;40;1;0;1;10
+Avenida Lúcio Costa - Barra da Tijuca, Rio de Janeiro - RJ;3000.0;46;1;1;1;10
+Rua Barão de Mesquita, 746 - Andaraí, Rio de Janeiro - RJ;900.0;28;1;0;1;10
+Rua Marco Polo, 157 - Vila da Penha, Rio de Janeiro - RJ;1600.0;42;1;0;1;10
+Rua das Palmeiras, 73 - Botafogo, Rio de Janeiro - RJ;2500.0;70;1;1;1;10
+Glória, Rio de Janeiro - RJ;1154.0;30;1;0;1;10
+Rua Domingos Mondim - Tauá, Rio de Janeiro - RJ;850.0;55;1;1;1;10
+Rua Santa Clara, 308* - Copacabana, Rio de Janeiro - RJ;1300.0;40;1;0;1;10
+Rua Real Grandeza - Botafogo, Rio de Janeiro - RJ;120.0;22;1;0;1;10
+Rua Santa Clara, 0 - Copacabana, Rio de Janeiro - RJ;1600.0;30;1;0;1;10
+Estrada do Rio Grande - Taquara, Rio de Janeiro - RJ;1500.0;36;1;0;1;10
+Rua Maici, 158 - Tauá, Rio de Janeiro - RJ;1100.0;45;1;0;1;10
+Praia Botafogo - Botafogo, Rio de Janeiro - RJ;2000.0;25;1;0;1;10
+Rua Dona Mariana, 79 - Botafogo, Rio de Janeiro - RJ;2600.0;40;1;0;1;10
+Rua Marquês de Pombal, 171 - Centro, Rio de Janeiro - RJ;1200.0;30;1;0;1;10
+Rua Marquês de Olinda - Botafogo, Rio de Janeiro - RJ;1550.0;40;1;0;1;10
+Avenida Atlântica - Copacabana, Rio de Janeiro - RJ;1500.0;28;1;0;1;10
+Ipanema, Rio de Janeiro - RJ;2400.0;75;1;0;2;10
+Rua André Cavalcanti, 77 - Centro, Rio de Janeiro - RJ;1000.0;50;1;0;1;10
+Rua Pompeu Loureiro - Copacabana, Rio de Janeiro - RJ;1800.0;38;1;1;1;10
+Rua Doutor Satamini, 91 - Tijuca, Rio de Janeiro - RJ;1150.0;40;1;0;1;10
+Rua Anchieta - Leme, Rio de Janeiro - RJ;3400.0;45;1;0;1;10
+Avenida Engenheiro Richard - Grajaú, Rio de Janeiro - RJ;700.0;25;1;0;1;10
+Avenida Oswaldo Cruz - Flamengo, Rio de Janeiro - RJ;2800.0;71;1;1;2;10
+Avenida José Luiz Ferraz, 610 - Recreio Dos Bandeirantes, Rio de Janeiro - RJ;1900.0;60;1;0;1;10
+Rua Antônio Basílio - Tijuca, Rio de Janeiro - RJ;1300.0;42;1;0;1;10
+Rua Hipólito da Costa, 93 - Vila Isabel, Rio de Janeiro - RJ;1400.0;65;1;0;1;10
+Rua Miguel Lemos, 91 - Copacabana, Rio de Janeiro - RJ;2000.0;53;1;0;1;10
+Rua Silveira Martins - Flamengo, Rio de Janeiro - RJ;1400.0;50;1;0;1;10
+Avenida Lúcio Costa, 5740 - Barra da Tijuca, Rio de Janeiro - RJ;3000.0;25;1;1;1;10
+Copacabana, Rio de Janeiro - RJ;2500.0;50;1;0;1;10
+Rua Odorico Mendes - Cachambi, Rio de Janeiro - RJ;1500.0;40;1;1;1;10
+Rua Voluntários da Pátria, 450 - Humaitá, Rio de Janeiro - RJ;1300.0;30;1;0;1;10
+Rua Auriflama, 195 - Guadalupe, Rio de Janeiro - RJ;450.0;25;1;0;1;11
+Vila da Penha, Rio de Janeiro - RJ;790.0;44;1;0;1;11
+Rua Leopoldo Miguez, 129 - Copacabana, Rio de Janeiro - RJ;1900.0;35;1;0;1;11
+Rua Senador Dantas, 19 - Centro, Rio de Janeiro - RJ;1000.0;69;1;0;1;11
+Rua Sá Ferreira, 228 - Copacabana, Rio de Janeiro - RJ;1700.0;42;1;0;1;11
+Rua Visconde de Pirajá, 411 - Ipanema, Rio de Janeiro - RJ;1400.0;32;1;0;1;11
+Rua João de Sousa Carvalho, 1154 - Guadalupe, Rio de Janeiro - RJ;450.0;28;1;0;1;11
+Rua Pompeu Loureiro - Copacabana, Rio de Janeiro - RJ;2650.0;40;1;1;1;11
+Rua Barata Ribeiro - Copacabana, Rio de Janeiro - RJ;1700.0;36;1;0;1;11
+Rua Alceu Amoroso Lima, 105 - Barra da Tijuca, Rio de Janeiro - RJ;2000.0;65;1;1;1;11
+Avenida das Américas - Recreio Dos Bandeirantes, Rio de Janeiro - RJ;1500.0;34;1;1;1;11
+Rua do Matoso, 125 - Praça da Bandeira, Rio de Janeiro - RJ;4500.0;42;1;0;1;11
+Rua das Laranjeiras, 486 - Laranjeiras, Rio de Janeiro - RJ;1900.0;47;1;0;1;11
+Rua João Líra, 32 - Leblon, Rio de Janeiro - RJ;2900.0;50;1;0;2;11
+Rua das Laranjeiras, 21 - Laranjeiras, Rio de Janeiro - RJ;1800.0;41;1;0;1;11
+Rua Riachuelo - Centro, Rio de Janeiro - RJ;850.0;34;1;0;1;11
+Rua Cento e Trinta e Três, 1 -  Pedra de Guaratiba, Rio de Janeiro - RJ;550.0;37;1;0;1;11
+Rua Risoleta Neves, 27 - Recreio Dos Bandeirantes, Rio de Janeiro - RJ;1150.0;26;1;0;1;11
+Rua Barata Ribeiro - Copacabana, Rio de Janeiro - RJ;1500.0;50;1;0;1;11
+Rua Torres Homem - Vila Isabel, Rio de Janeiro - RJ;1900.0;50;1;1;1;11
+Rua Almirante Guilhem - Leblon, Rio de Janeiro - RJ;3200.0;60;1;0;1;11
+Rua Farani, 3 - Botafogo, Rio de Janeiro - RJ;1600.0;31;1;0;1;11
+Tijuca, Rio de Janeiro - RJ;1200.0;50;1;0;1;11
+Rua Riachuelo, 42 - Centro, Rio de Janeiro - RJ;1000.0;38;1;0;1;11
+Rua Dois de Fevereiro, 951 - Méier, Rio de Janeiro - RJ;850.0;30;1;1;1;11
+Avenida Nossa Senhora de Copacabana, 112 - Copacabana, Rio de Janeiro - RJ;1200.0;32;1;0;1;11
+Rua Afonso Pena, 54 - Tijuca, Rio de Janeiro - RJ;1300.0;43;1;0;1;11
+Rua Carlos Sampaio - Centro, Rio de Janeiro - RJ;800.0;22;1;0;1;11
+Rua General Venâncio Flores - Leblon, Rio de Janeiro - RJ;3300.0;46;1;0;1;11
+Avenida Maracanã - Tijuca, Rio de Janeiro - RJ;1100.0;41;1;0;1;11
+Rua Voluntários da Pátria, 450 - Humaitá, Rio de Janeiro - RJ;1100.0;30;1;0;1;11
+Rua Álvaro Alvim, 37 - Centro, Rio de Janeiro - RJ;500.0;28;1;0;1;11
+Rua Washington Luís, 3 - Centro, Rio de Janeiro - RJ;750.0;45;1;0;1;11
+Rua Barão de Itambi - Botafogo, Rio de Janeiro - RJ;3000.0;60;1;0;1;11
+Rua Leopoldo Miguez, 0 - Copacabana, Rio de Janeiro - RJ;2200.0;60;1;0;1;11
+Rua Siqueira Campos, 0 - Copacabana, Rio de Janeiro - RJ;1100.0;32;1;0;1;11
+Praia Botafogo - Botafogo, Rio de Janeiro - RJ;1000.0;25;1;0;1;12
+Engenho De Dentro, Rio de Janeiro - RJ;950.0;55;1;0;1;12
+Rua do Bispo, 265 - Tijuca, Rio de Janeiro - RJ;1250.0;40;1;0;1;12
+Avenida Maracanã, 301 - Maracanã, Rio de Janeiro - RJ;1200.0;55;1;0;1;12
+Rua Valparaíso - Tijuca, Rio de Janeiro - RJ;1450.0;47;1;0;2;12
+Taquara, Rio de Janeiro - RJ;1300.0;55;1;1;1;12
+Rua da Lapa, 65 - Lapa, Rio de Janeiro - RJ;1300.0;54;1;1;1;12
+Rua Bolivar, 124 - Copacabana, Rio de Janeiro - RJ;1500.0;30;1;0;1;12
+Rua Marquês de Olinda - Botafogo, Rio de Janeiro - RJ;1550.0;40;1;0;1;12
+Flamengo, Rio de Janeiro - RJ;2300.0;60;1;1;2;12
+Avenida Nossa Senhora de Copacabana, 115 - Copacabana, Rio de Janeiro - RJ;180.0;35;1;0;1;12
+Rua Senador Dantas, 19 - Centro, Rio de Janeiro - RJ;1000.0;69;1;0;1;12
+Rua Itaipava - Jardim Botânico, Rio de Janeiro - RJ;3100.0;48;1;0;1;12
+Marechal Hermes, Rio de Janeiro - RJ;800.0;60;1;1;1;12
+Rua Andrade Neves, 225 - Tijuca, Rio de Janeiro - RJ;1500.0;60;1;1;2;12
+Avenida das Américas, 7897 - Barra da Tijuca, Rio de Janeiro - RJ;2200.0;35;1;1;1;12
+Jacarepaguá, Rio de Janeiro - RJ;2000.0;36;1;1;1;12
+Rua Real Grandeza, 110 - Botafogo, Rio de Janeiro - RJ;2100.0;43;1;0;1;12
+Rua Luís Barroso - Irajá, Rio de Janeiro - RJ;600.0;25;1;0;1;12
+Vila Isabel, Rio de Janeiro - RJ;1100.0;41;1;0;1;12
+Rua Visconde de Pirajá - Ipanema, Rio de Janeiro - RJ;5000.0;55;1;0;1;12
+Rua Riachuelo - Centro, Rio de Janeiro - RJ;1100.0;40;1;0;1;12
+Rua Figueiredo Magalhães - Copacabana, Rio de Janeiro - RJ;2300.0;50;1;0;1;12
+Rua Dias Ferreira - Leblon, Rio de Janeiro - RJ;4250.0;45;1;0;2;12
+Avenida Nossa Senhora de Copacabana, 542 - Copacabana, Rio de Janeiro - RJ;1450.0;45;1;0;1;12
+Rua Correa Dutra, 56 - Flamengo, Rio de Janeiro - RJ;900.0;24;1;0;1;12
+Rua do Resende - Centro, Rio de Janeiro - RJ;1100.0;45;1;0;1;12
+Rua Borda do Mato, 293 - Grajaú, Rio de Janeiro - RJ;1050.0;45;1;0;2;12
+Avenida Dom Hélder Câmara - Piedade, Rio de Janeiro - RJ;800.0;45;1;0;1;12
+Travessa da Prosperidade - Vila da Penha, Rio de Janeiro - RJ;1200.0;65;1;1;2;12
+Rua Santo Amaro, 172 - Glória, Rio de Janeiro - RJ;1000.0;35;1;0;1;12
+Rua Barata Ribeiro, 577 - Copacabana, Rio de Janeiro - RJ;2000.0;50;1;0;1;12
+Estrada do Itanhangá, 2220 - Itanhangá, Rio de Janeiro - RJ;1200.0;50;1;1;1;12
+Rua Santa Clara - Copacabana, Rio de Janeiro - RJ;1500.0;40;1;0;1;12
+Rua Manuel Leitão - Tijuca, Rio de Janeiro - RJ;1200.0;26;1;0;1;12
+Rua Gustavo de Andrade, 134 - Vista Alegre, Rio de Janeiro - RJ;750.0;30;1;1;1;12
+Rua Luís Barroso - Irajá, Rio de Janeiro - RJ;600.0;25;1;0;1;13
+Vila Isabel, Rio de Janeiro - RJ;1100.0;41;1;0;1;13
+Rua Visconde de Pirajá - Ipanema, Rio de Janeiro - RJ;5000.0;55;1;0;1;13
+Rua Riachuelo - Centro, Rio de Janeiro - RJ;1100.0;40;1;0;1;13
+Rua Figueiredo Magalhães - Copacabana, Rio de Janeiro - RJ;2300.0;50;1;0;1;13
+Rua Dias Ferreira - Leblon, Rio de Janeiro - RJ;4250.0;45;1;0;2;13
+Avenida Nossa Senhora de Copacabana, 542 - Copacabana, Rio de Janeiro - RJ;1450.0;45;1;0;1;13
+Rua Correa Dutra, 56 - Flamengo, Rio de Janeiro - RJ;900.0;24;1;0;1;13
+Rua do Catete, 90 - Catete, Rio de Janeiro - RJ;1600.0;32;1;0;1;13
+Rua do Resende - Centro, Rio de Janeiro - RJ;1100.0;45;1;0;1;13
+Rua Borda do Mato, 293 - Grajaú, Rio de Janeiro - RJ;1050.0;45;1;0;2;13
+Avenida Dom Hélder Câmara - Piedade, Rio de Janeiro - RJ;800.0;45;1;0;1;13
+Travessa da Prosperidade - Vila da Penha, Rio de Janeiro - RJ;1200.0;65;1;1;2;13
+Rua Santo Amaro, 172 - Glória, Rio de Janeiro - RJ;1000.0;35;1;0;1;13
+Rua Barata Ribeiro, 577 - Copacabana, Rio de Janeiro - RJ;2000.0;50;1;0;1;13
+Estrada do Itanhangá, 2220 - Itanhangá, Rio de Janeiro - RJ;1200.0;50;1;1;1;13
+Rua Santa Clara - Copacabana, Rio de Janeiro - RJ;1500.0;40;1;0;1;13
+Rua Manuel Leitão - Tijuca, Rio de Janeiro - RJ;1200.0;26;1;0;1;13
+Rua Gustavo de Andrade, 134 - Vista Alegre, Rio de Janeiro - RJ;750.0;30;1;1;1;13
+Rua Visconde de Pirajá - Ipanema, Rio de Janeiro - RJ;4000.0;27;1;0;1;13
+Rua Santo Amaro, 184 - Glória, Rio de Janeiro - RJ;1100.0;30;1;0;1;13
+Rua Barata Ribeiro - Copacabana, Rio de Janeiro - RJ;1700.0;45;1;1;1;13
+Tijuca, Rio de Janeiro - RJ;1300.0;40;1;0;1;13
+Copacabana, Rio de Janeiro - RJ;2700.0;55;1;0;1;13
+Rua Conde Lages - Glória, Rio de Janeiro - RJ;2500.0;40;1;1;1;13
+Rua Gerbera - Rio Comprido, Rio de Janeiro - RJ;800.0;45;1;0;1;13
+Rua Joaquim Nabuco, 91 - Copacabana, Rio de Janeiro - RJ;2100.0;33;1;0;1;13
+Rua Ibia - Turiaçu, Rio de Janeiro - RJ;500.0;48;1;1;1;13
+Rua Riachuelo, 42 - Centro, Rio de Janeiro - RJ;1000.0;38;1;0;1;13
+Rua Barão de Itambi, 55 - Botafogo, Rio de Janeiro - RJ;2850.0;50;1;1;2;13
+Rua Francisco Muratori - Santa Teresa, Rio de Janeiro - RJ;100.0;27;1;0;1;13
+Rua Enéas Martins, 24 - Guadalupe, Rio de Janeiro - RJ;650.0;35;1;0;1;13
+Rua Padre Telêmaco, 81 - Cascadura, Rio de Janeiro - RJ;500.0;24;1;0;1;13
+Flamengo, Rio de Janeiro - RJ;2170.0;55;1;0;2;13
+Avenida Lúcio Costa - Barra da Tijuca, Rio de Janeiro - RJ;3000.0;46;1;1;1;13
+Rua Piraí - Marechal Hermes, Rio de Janeiro - RJ;850.0;10;1;0;1;13
+Vila Isabel, Rio de Janeiro - RJ;1300.0;50;1;0;1;14
+Rua Barata Ribeiro - Copacabana, Rio de Janeiro - RJ;1000.0;31;1;0;1;14
+Rua Cardeal Dom Sebastião Leme, 213 - Santa Teresa, Rio de Janeiro - RJ;1200.0;40;1;0;1;14
+Avenida Nossa Senhora de Copacabana, 914* - Copacabana, Rio de Janeiro - RJ;1950.0;52;1;0;1;14
+Rua São Francisco Xavier - Maracanã, Rio de Janeiro - RJ;800.0;54;1;1;2;14
+Rua Conselheiro Ferraz, 172 - Lins de Vasconcelos, Rio de Janeiro - RJ;650.0;38;1;1;1;14
+Botafogo, Rio de Janeiro - RJ;3400.0;55;1;1;2;14
+Rua Pareto, 36 - Tijuca, Rio de Janeiro - RJ;1400.0;32;1;0;1;14
+Zumbi, Rio de Janeiro - RJ;1280.0;65;1;1;1;14
+Leblon, Rio de Janeiro - RJ;5000.0;50;1;0;1;14
+Tijuca, Rio de Janeiro - RJ;1500.0;50;1;0;1;14
+Rua Pompeu Loureiro - Copacabana, Rio de Janeiro - RJ;2650.0;40;1;1;1;14
+Barra da Tijuca, Rio de Janeiro - RJ;3500.0;32;1;0;1;14
+Rua Álvaro Miranda - Pilares, Rio de Janeiro - RJ;700.0;48;1;0;1;14
+Rua Barata Ribeiro, 96 - Copacabana, Rio de Janeiro - RJ;1400.0;30;1;0;1;14
+Rua General Roca - Tijuca, Rio de Janeiro - RJ;1150.0;30;1;0;1;14
+Avenida Oswaldo Cruz - Flamengo, Rio de Janeiro - RJ;1950.0;51;1;0;1;14
+Rua das Laranjeiras - Laranjeiras, Rio de Janeiro - RJ;2300.0;59;1;1;1;14
+Rua Domingos Ferreira - Copacabana, Rio de Janeiro - RJ;1500.0;37;1;0;1;14
+Rua Tadeu Kosciusko - Centro, Rio de Janeiro - RJ;1300.0;55;1;0;1;14
+Rua Zeferino de Assis, 57 - Ramos, Rio de Janeiro - RJ;800.0;49;1;0;1;14
+Rua Barão de Itambi - Botafogo, Rio de Janeiro - RJ;3000.0;60;1;0;1;14
+Rua São Clemente, 107 - Botafogo, Rio de Janeiro - RJ;2000.0;44;1;0;1;14
+Rua Doutor Sebastião de Aquino - Barra da Tijuca, Rio de Janeiro - RJ;1605.0;35;1;0;1;14
+Avenida Lúcio Costa, 3150 - Barra da Tijuca, Rio de Janeiro - RJ;3000.0;50;1;1;1;14
+Rua Paula Freitas, 33 - Copacabana, Rio de Janeiro - RJ;1700.0;39;1;0;1;14
+Tijuca, Rio de Janeiro - RJ;1400.0;40;1;0;1;14
+Barra da Tijuca, Rio de Janeiro - RJ;3000.0;53;1;1;2;14
+Rua Doutor Marques Canário, 24 - Leblon, Rio de Janeiro - RJ;2500.0;55;1;0;1;14
+Rua Auriflama, 195 - Guadalupe, Rio de Janeiro - RJ;450.0;25;1;0;1;14
+Rua Paulo Moreira da Silva, 0 - Taquara, Rio de Janeiro - RJ;1100.0;48;1;1;1;14
+Rua Aprazível, 28 - Santa Teresa, Rio de Janeiro - RJ;1900.0;18;1;0;1;14
+Rua Padre Leandro Altoe, 120 - Vista Alegre, Rio de Janeiro - RJ;1050.0;75;1;1;1;14
+Rua André Cavalcanti, 88 - Centro, Rio de Janeiro - RJ;1000.0;36;1;0;1;14
+Glória, Rio de Janeiro - RJ;2100.0;45;1;1;2;14
+Rua Arquiteto, 912 - Recreio Dos Bandeirantes, Rio de Janeiro - RJ;700.0;25;1;0;1;14
+Avenida Braz de Pina, 685 - Penha Circular, Rio de Janeiro - RJ;850.0;60;1;1;1;15
+Rua General Roca - Tijuca, Rio de Janeiro - RJ;1000.0;36;1;0;1;15
+Realengo, Rio de Janeiro - RJ;600.0;55;1;0;1;15
+Rua Gustavo de Andrade, 134 - Vista Alegre, Rio de Janeiro - RJ;750.0;30;1;1;1;15
+Rua Maici, 158 - Tauá, Rio de Janeiro - RJ;1100.0;45;1;0;1;15
+Rua Riachuelo, 239 - Centro, Rio de Janeiro - RJ;1250.0;55;1;0;1;15
+Avenida Nelson Cardoso, 1325 - Taquara, Rio de Janeiro - RJ;1300.0;72;1;0;1;15
+Avenida das Américas - Recreio Dos Bandeirantes, Rio de Janeiro - RJ;3000.0;65;1;1;1;15
+Avenida Nossa Senhora de Copacabana, 441 - Copacabana, Rio de Janeiro - RJ;1400.0;30;1;0;1;15
+Praia do Flamengo - Catete, Rio de Janeiro - RJ;1300.0;27;1;0;1;15
+Rua do Humaitá, 205 - Humaitá, Rio de Janeiro - RJ;2000.0;38;1;0;2;15
+Rua Franz Weissman, 180 - Barra da Tijuca, Rio de Janeiro - RJ;3500.0;42;1;1;1;15
+Avenida Princesa Isabel - Copacabana, Rio de Janeiro - RJ;1700.0;38;1;0;1;15
+Rua Miguel Lemos - Copacabana, Rio de Janeiro - RJ;2200.0;41;1;0;1;15
+Rua Riachuelo, 70 - Centro, Rio de Janeiro - RJ;600.0;16;1;0;1;15
+Avenida Maracanã - Tijuca, Rio de Janeiro - RJ;1500.0;42;1;0;1;15
+Avenida Lúcio Costa, 6900 - Barra da Tijuca, Rio de Janeiro - RJ;2500.0;60;1;1;1;15
+Rua Cândido Mendes, 140 - Glória, Rio de Janeiro - RJ;1200.0;30;1;0;1;15
+Rua Júlio de Castilhos, 55 - Copacabana, Rio de Janeiro - RJ;950.0;35;1;0;1;15
+Rua Paulo Moreira da Silva - Taquara, Rio de Janeiro - RJ;970.0;50;1;1;1;15
+Avenida Nossa Senhora de Copacabana, 728 - Copacabana, Rio de Janeiro - RJ;1500.0;53;1;0;1;15
+Rua Real Grandeza - Botafogo, Rio de Janeiro - RJ;120.0;22;1;0;1;15
+Rua José Linhares, 117 - Leblon, Rio de Janeiro - RJ;2700.0;50;1;1;1;15
+Avenida Atlântica - Copacabana, Rio de Janeiro - RJ;3500.0;28;1;0;1;15
+Rua Visconde de Pirajá, 66 - Ipanema, Rio de Janeiro - RJ;2800.0;60;1;0;1;15
+Rua Joaquim Nabuco - Ipanema, Rio de Janeiro - RJ;2000.0;40;1;0;1;15
+Ipanema, Rio de Janeiro - RJ;2300.0;48;1;0;1;15
+Avenida Gomes Freire, 788 - Centro, Rio de Janeiro - RJ;1100.0;35;1;0;1;15
+Rua Souza Lima - Copacabana, Rio de Janeiro - RJ;200.0;30;1;0;1;15
+Rua Cruz e Sousa - Encantado, Rio de Janeiro - RJ;750.0;45;1;0;1;15
+Rua das Laranjeiras - Laranjeiras, Rio de Janeiro - RJ;2000.0;49;1;0;1;15
+Rua Piragibe Frota Aguiar - Copacabana, Rio de Janeiro - RJ;2500.0;52;1;0;1;15
+Rua do Catete, 66 - Catete, Rio de Janeiro - RJ;1200.0;32;1;0;1;15
+Rua Piraí - Marechal Hermes, Rio de Janeiro - RJ;850.0;10;1;0;1;15
+Estrada dos Bandeirantes, 98 - Jacarepaguá, Rio de Janeiro - RJ;2000.0;39;1;1;1;15
+Estrada da Pedra, 5040 - Guaratiba, Rio de Janeiro - RJ;500.0;32;1;0;1;15
+Estrada do Pontal - Recreio Dos Bandeirantes, Rio de Janeiro - RJ;2480.0;50;1;0;1;16
+Vila da Penha, Rio de Janeiro - RJ;700.0;40;1;0;1;16
+Rua Carlos Gois - Leblon, Rio de Janeiro - RJ;7000.0;37;1;0;1;16
+Rua do Resende - Centro, Rio de Janeiro - RJ;700.0;25;1;0;1;16
+Estrada de Jacarepaguá, 5573 - Anil, Rio de Janeiro - RJ;750.0;46;1;1;1;16
+Rua Barata Ribeiro, 407 - Copacabana, Rio de Janeiro - RJ;1600.0;57;1;0;1;16
+Rua Carlos Gois - Leblon, Rio de Janeiro - RJ;3150.0;40;1;0;1;16
+Rua Leopoldo Miguez, 40 - Copacabana, Rio de Janeiro - RJ;1500.0;30;1;0;1;16
+Avenida Engenheiro Richard - Grajaú, Rio de Janeiro - RJ;700.0;25;1;0;1;16
+Rua Riachuelo, 70 - Centro, Rio de Janeiro - RJ;600.0;16;1;0;1;16
+Rua Silva Mourão, 89 - Cachambi, Rio de Janeiro - RJ;1390.0;50;1;1;1;16
+Avenida Calógeras, 6 - Centro, Rio de Janeiro - RJ;1350.0;40;1;0;1;16
+Rua Adalberto Aranha - Vila Isabel, Rio de Janeiro - RJ;1000.0;30;1;0;1;16
+Rua Pompeu Loureiro - Copacabana, Rio de Janeiro - RJ;1800.0;38;1;1;1;16
+Rua Professor Clemente Ferreira, 1337 - Bangu, Rio de Janeiro - RJ;900.0;38;1;0;1;16
+Rua Alceu Amoroso Lima, 65 - Barra da Tijuca, Rio de Janeiro - RJ;2000.0;62;1;0;1;16
+Avenida José Luiz Ferraz, 610 - Recreio Dos Bandeirantes, Rio de Janeiro - RJ;1900.0;60;1;0;1;16
+Rua Umberto Passini, 182 - Campo Grande, Rio de Janeiro - RJ;450.0;30;1;0;1;16
+Copacabana, Rio de Janeiro - RJ;1800.0;42;1;0;1;16
+Rua Tenente Possolo - Centro, Rio de Janeiro - RJ;700.0;33;1;0;1;16
+Rua Menta, 227 - Barra da Tijuca, Rio de Janeiro - RJ;800.0;40;1;0;1;16
+Rua Heráclito Graça, 68 - Lins de Vasconcelos, Rio de Janeiro - RJ;900.0;60;1;1;1;16
+Rua Humberto de Campos, 242 - Leblon, Rio de Janeiro - RJ;3000.0;45;1;0;1;16
+Avenida Nossa Senhora de Copacabana, 1145 - Copacabana, Rio de Janeiro - RJ;1100.0;30;1;0;1;16
+Rua Doutor Antônio de Medeiros - Tauá, Rio de Janeiro - RJ;900.0;45;1;0;1;16
+Rua General Artigas - Leblon, Rio de Janeiro - RJ;5000.0;57;1;1;1;16
+Rua Divino Salvador - Piedade, Rio de Janeiro - RJ;600.0;25;1;0;1;16
+Rua Riachuelo - Centro, Rio de Janeiro - RJ;1150.0;45;1;0;2;16
+Rua Marechal Mascarenhas de Morais, 174 - Copacabana, Rio de Janeiro - RJ;4500.0;50;1;1;1;16
+Avenida Ataulfo de Paiva, 900 - Leblon, Rio de Janeiro - RJ;3000.0;44;1;0;1;16
+Rua Conde de Bonfim, 920 - Tijuca, Rio de Janeiro - RJ;1000.0;40;1;1;1;16
+Rua General Cristóvão Barcelos, 11 - Laranjeiras, Rio de Janeiro - RJ;1500.0;26;1;0;1;16
+Taquara, Rio de Janeiro - RJ;1000.0;45;1;1;1;16
+Avenida Rainha Elizabeth da Bélgica, 109 - Copacabana, Rio de Janeiro - RJ;2700.0;60;1;0;1;16
+Avenida Rainha Elizabeth da Bélgica, 186 - Copacabana, Rio de Janeiro - RJ;1500.0;20;1;0;1;16
+Avenida Atlântica - Copacabana, Rio de Janeiro - RJ;1500.0;28;1;0;1;16
+Avenida Ataulfo de Paiva, 50 - Leblon, Rio de Janeiro - RJ;2800.0;60;1;0;1;17
+Rua Roberto Dias Lópes - Leme, Rio de Janeiro - RJ;2300.0;44;1;1;1;17
+Rua Barata Ribeiro - Copacabana, Rio de Janeiro - RJ;2400.0;51;1;0;1;17
+Vista Alegre, Rio de Janeiro - RJ;1000.0;38;1;0;1;17
+Rua República do Peru, 250 - Copacabana, Rio de Janeiro - RJ;1200.0;40;1;0;1;17
+Centro, Rio de Janeiro - RJ;1100.0;40;1;0;1;17
+Rua Souza Lima - Copacabana, Rio de Janeiro - RJ;200.0;30;1;0;1;17
+Rua Souza Lima - Copacabana, Rio de Janeiro - RJ;1800.0;39;1;0;1;17
+Botafogo, Rio de Janeiro - RJ;2100.0;42;1;0;1;17
+Avenida Padre Roser, 123 - Vila da Penha, Rio de Janeiro - RJ;800.0;30;1;0;1;17
+Avenida Vieira Souto - Ipanema, Rio de Janeiro - RJ;2800.0;55;1;0;1;17
+Rua João Afonso, 49 - Humaitá, Rio de Janeiro - RJ;1900.0;31;1;0;1;17
+Rua Carlos de Carvalho - Centro, Rio de Janeiro - RJ;1100.0;35;1;0;1;17
+Avenida Prado Júnior - Copacabana, Rio de Janeiro - RJ;1000.0;29;1;0;1;17
+Copacabana, Rio de Janeiro - RJ;1300.0;32;1;0;1;17
+Rua Guilherme Marconi, 76 - Centro, Rio de Janeiro - RJ;950.0;27;1;0;1;17
+Avenida das Américas, 487 - Barra da Tijuca, Rio de Janeiro - RJ;1400.0;28;1;0;1;17
+Avenida das Américas, 19992 - Recreio Dos Bandeirantes, Rio de Janeiro - RJ;1400.0;34;1;1;1;17
+Rua Marechal Mascarenhas de Morais, 174 - Copacabana, Rio de Janeiro - RJ;4500.0;50;1;1;1;17
+Estrada Caribu - Freguesia- Jacarepaguá, Rio de Janeiro - RJ;1300.0;38;1;1;1;17
+Rua Pedro Américo, 48 - Catete, Rio de Janeiro - RJ;750.0;27;1;0;1;17
+Rua Joaquim Palhares, 267 - Estacio, Rio de Janeiro - RJ;1000.0;32;1;1;1;17
+Rua Creso, 150 - Curicica, Rio de Janeiro - RJ;750.0;50;1;0;1;17
+Avenida Princesa Isabel - Copacabana, Rio de Janeiro - RJ;1500.0;50;1;0;1;17
+Rua Cento e Trinta e Três, 1 -  Pedra de Guaratiba, Rio de Janeiro - RJ;550.0;37;1;0;1;17
+Rua das Laranjeiras, 486 - Laranjeiras, Rio de Janeiro - RJ;1900.0;47;1;0;1;17
+Rua Riachuelo, 148 - Centro, Rio de Janeiro - RJ;1300.0;45;1;0;1;17
+Rua Romero Zander, 218 - Ramos, Rio de Janeiro - RJ;700.0;45;1;0;1;17
+Avenida Prado Júnior, 330 - Copacabana, Rio de Janeiro - RJ;1200.0;30;1;0;1;17
+Rua Arquiteto, 366 - Recreio Dos Bandeirantes, Rio de Janeiro - RJ;1700.0;45;1;0;1;17
+Estrada da Capoeira Grande, 379 - Guaratiba, Rio de Janeiro - RJ;1000.0;38;1;0;1;17
+Avenida Lúcio Costa, 6900 - Barra da Tijuca, Rio de Janeiro - RJ;2500.0;60;1;1;1;17
+Avenida Bartolomeu Mitre - Leblon, Rio de Janeiro - RJ;7500.0;114;1;1;2;17
+Rua Joaquim Palhares - Estacio, Rio de Janeiro - RJ;650.0;32;1;0;1;17
+Avenida Nossa Senhora de Copacabana, 1085 - Copacabana, Rio de Janeiro - RJ;1400.0;30;1;0;1;17
+Rua Carlos de Vasconcelos, 148 - Tijuca, Rio de Janeiro - RJ;1600.0;43;1;1;1;17
+Rua Padre Leandro Altoe, 120 - Vista Alegre, Rio de Janeiro - RJ;1050.0;75;1;1;1;18
+Rua de Santana, 73 - Centro, Rio de Janeiro - RJ;900.0;32;1;0;1;18
+Rua Real Grandeza, 281 - Botafogo, Rio de Janeiro - RJ;2100.0;67;1;1;2;18
+Rua Santo Afonso - Tijuca, Rio de Janeiro - RJ;1200.0;34;1;0;1;18
+Rua Aitinga, 41 - Inhaúma, Rio de Janeiro - RJ;900.0;36;1;0;1;18
+Rua Barão de Mesquita, 459 - Tijuca, Rio de Janeiro - RJ;1100.0;44;1;0;1;18
+Rua Pedro Américo, 130 - Catete, Rio de Janeiro - RJ;1600.0;51;1;1;2;18
+Rua Bento Lisboa - Catete, Rio de Janeiro - RJ;1850.0;32;1;0;1;18
+Rua Santo Amaro - Glória, Rio de Janeiro - RJ;1200.0;33;1;0;1;18
+Estrada Caribu - Freguesia- Jacarepaguá, Rio de Janeiro - RJ;1300.0;38;1;1;1;18
+Avenida Paulo de Frontin, 405 - Rio Comprido, Rio de Janeiro - RJ;1100.0;45;1;0;2;18
+Tijuca, Rio de Janeiro - RJ;1400.0;40;1;0;1;18
+Avenida Nossa Senhora de Copacabana, 1100 - Copacabana, Rio de Janeiro - RJ;1500.0;40;1;0;1;18
+Avenida Lúcio Costa, 3150 - Barra da Tijuca, Rio de Janeiro - RJ;5399.0;45;1;1;1;18
+Rua Franz Liszt - Jardim América, Rio de Janeiro - RJ;800.0;60;1;0;1;18
+Boulevard Vinte e Oito de Setembro, 280 - Vila Isabel, Rio de Janeiro - RJ;900.0;30;1;0;1;18
+Ipanema, Rio de Janeiro - RJ;4500.0;40;1;1;2;18
+Centro, Rio de Janeiro - RJ;1200.0;40;1;0;1;18
+Rua Odorico Mendes - Cachambi, Rio de Janeiro - RJ;1700.0;41;1;0;1;18
+Rua Mena Barreto - Botafogo, Rio de Janeiro - RJ;2200.0;55;1;1;2;18
+Avenida Nossa Senhora de Copacabana, 115 - Copacabana, Rio de Janeiro - RJ;180.0;35;1;0;1;18
+Rua Mafra, 109 - Penha Circular, Rio de Janeiro - RJ;800.0;60;1;1;1;18
+Rua Auriflama, 201 - Guadalupe, Rio de Janeiro - RJ;600.0;31;1;0;1;18
+Rua do Matoso, 125 - Praça da Bandeira, Rio de Janeiro - RJ;1000.0;30;1;0;1;18
+Rua Riachuelo, 136 - Centro, Rio de Janeiro - RJ;1100.0;41;1;0;1;18
+Rua Gomes Carneiro - Ipanema, Rio de Janeiro - RJ;3200.0;44;1;1;1;18
+Avenida Nossa Senhora de Copacabana - Copacabana, Rio de Janeiro - RJ;2200.0;65;1;0;2;18
+Rua Voluntários da Pátria, 450 - Botafogo, Rio de Janeiro - RJ;1100.0;33;1;0;1;18
+Rua Pedro Américo, 130 - Catete, Rio de Janeiro - RJ;1650.0;51;1;0;2;18
+Rua Ronald de Carvalho - Copacabana, Rio de Janeiro - RJ;1300.0;35;1;0;1;18
+Centro, Rio de Janeiro - RJ;500.0;51;1;0;1;18
+Rua Tambaú, 253 - Ramos, Rio de Janeiro - RJ;700.0;50;1;0;1;18
+Rua Guilherme Marconi, 76 - Centro, Rio de Janeiro - RJ;950.0;27;1;0;1;18
+Rua Peroba, 196 - Gardênia Azul, Rio de Janeiro - RJ;700.0;40;1;0;1;18
+Rua Domingos Ferreira, 125 - Copacabana, Rio de Janeiro - RJ;1200.0;35;1;0;1;18
+Rua Dom Juvêncio de Brito, 229 - Freguesia- Jacarepaguá, Rio de Janeiro - RJ;800.0;28;1;0;1;18
+Rua Dom Juvêncio de Brito, 229 - Freguesia- Jacarepaguá, Rio de Janeiro - RJ;800.0;28;1;0;1;19
+Praça Vereador Rocha Leão, 110 - Copacabana, Rio de Janeiro - RJ;2000.0;45;1;0;1;19
+Rua Prefeito Olímpio de Melo, 1953 - Benfica, Rio de Janeiro - RJ;800.0;55;1;0;1;19
+Rua dos Inválidos - Centro, Rio de Janeiro - RJ;800.0;20;1;0;1;19
+Rua Cintra, 652 - Penha Circular, Rio de Janeiro - RJ;800.0;40;1;0;1;19
+Avenida Paulo de Frontin, 405 - Rio Comprido, Rio de Janeiro - RJ;1100.0;45;1;0;2;19
+Rua Ministro Viveiros de Castro - Copacabana, Rio de Janeiro - RJ;2500.0;70;1;1;3;19
+Avenida Nossa Senhora de Copacabana, 387 - Copacabana, Rio de Janeiro - RJ;1100.0;32;1;0;1;19
+Rua Visconde de Pirajá - Ipanema, Rio de Janeiro - RJ;2900.0;40;1;0;1;19
+Rua Leopoldo Miguez, 0 - Copacabana, Rio de Janeiro - RJ;2200.0;60;1;0;1;19
+Rua Barão de Ipanema, 55 - Copacabana, Rio de Janeiro - RJ;1800.0;32;1;0;1;19
+Rua das Laranjeiras, 21 - Laranjeiras, Rio de Janeiro - RJ;1800.0;41;1;0;1;19
+Estrada da Gávea - São Conrado, Rio de Janeiro - RJ;5500.0;120;1;0;2;19
+Rua Castro Alves - Méier, Rio de Janeiro - RJ;1000.0;67;1;1;1;19
+Estrada General Afonso de Carvalho, 84 - Bangu, Rio de Janeiro - RJ;800.0;50;1;0;1;19
+Rua Domingos Mondim - Tauá, Rio de Janeiro - RJ;850.0;55;1;1;1;19
+Rua Miguel Ângelo - Cachambi, Rio de Janeiro - RJ;600.0;55;1;0;2;19
+Rua Correa Dutra, 56 - Flamengo, Rio de Janeiro - RJ;900.0;24;1;0;1;19
+Copacabana, Rio de Janeiro - RJ;1700.0;30;1;0;1;19
+Rua Ministro Viveiros de Castro - Copacabana, Rio de Janeiro - RJ;1200.0;40;1;0;1;19
+Rua Voluntários da Pátria, 450 - Humaitá, Rio de Janeiro - RJ;1300.0;24;1;0;1;19
+Rua Irineu Marinho - Centro, Rio de Janeiro - RJ;1100.0;40;1;0;1;19
+Copacabana, Rio de Janeiro - RJ;1000.0;30;1;0;1;19
+Rua Riachuelo - Centro, Rio de Janeiro - RJ;1150.0;45;1;0;2;19
+Rua de Santana, 73 - Centro, Rio de Janeiro - RJ;1000.0;60;1;0;1;19
+Rua das Laranjeiras, 466 - Laranjeiras, Rio de Janeiro - RJ;2300.0;56;1;1;1;19
+Rua Auriflama, 201 - Guadalupe, Rio de Janeiro - RJ;600.0;31;1;0;1;19
+Praça da Bandeira, Rio de Janeiro - RJ;1000.0;38;1;0;1;19
+Jardim Botânico, Rio de Janeiro - RJ;1800.0;32;1;0;1;19
+Avenida Nossa Senhora de Copacabana, 1145 - Copacabana, Rio de Janeiro - RJ;1100.0;30;1;0;1;19
+Rua Hermenegildo de Barros - Santa Teresa, Rio de Janeiro - RJ;1090.0;21;1;0;1;19
+Rua Barão de Iguatemi, 288 - Praça da Bandeira, Rio de Janeiro - RJ;990.0;70;1;0;1;19
+Rua Félix Pacheco, 150 - Leblon, Rio de Janeiro - RJ;1300.0;23;1;0;1;19
+Rua do Catete - Catete, Rio de Janeiro - RJ;1300.0;45;1;0;1;19
+Rua Castorino Francisco Nunes, 88 - Cocotá, Rio de Janeiro - RJ;1100.0;47;1;0;1;19
+Rua Álvaro Alvim - Centro, Rio de Janeiro - RJ;1500.0;30;1;0;1;19
