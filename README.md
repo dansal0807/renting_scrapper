@@ -3,8 +3,7 @@
 [PT-BR]
 
 Este programa visa fazer um scraping de preços de imóveis no Rio de Janeiro com a biblioteca Selenium. 
-O intuito do projeto foi completamente pessoal: buscar apartamentos com os critérios que bastam para um possível imóvel que eu viria alugar,
-ao fim de um periódo, a ideia é filtrar as melhores opções reunidas.
+O intuito do projeto foi completamente pessoal: buscar apartamentos com os critérios que bastam para um possível imóvel que eu viria alugar, ao fim de um periódo, a ideia é filtrar as melhores opções reunidas.
 
 Fique a vontade para ajustar os critérios de busca para seus próprios propósitos :)
 
