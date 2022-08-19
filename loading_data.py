@@ -44,7 +44,7 @@ def execute_many(conn, datafrm, table):
 try:
     print('Connecting to the PostgreSQL...........')
     conn = psycopg2.connect(user="postgres",
-                              password="sal123",
+                              password="***",
                               host="127.0.0.1",
                               port="5432",
                               database="postgres")
