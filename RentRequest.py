@@ -5,14 +5,18 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
-
+from selenium.webdriver.firefox.service import Service
+from webdriver_manager.firefox import GeckoDriverManager
 
 options = Options()
 options.page_load_strategy = 'none'
 options.add_argument("--headless")
 
-driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
-#driver = webdriver.Chrome(options=options)
+driver = webdriver.Firefox(service=Service(GeckoDriverManager().install()))
+
+#driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+#driver = webdriver.Chrome(ChromeDriverManager().install())
+driver = webdriver.Chrome(options=options)
 imoveis = []
 
 parte2 = '#onde=BR-Rio_de_Janeiro-NULL-Rio_de_Janeiro,BR-Rio_de_Janeiro-NULL-Rio_de_Janeiro-Zona_Sul-Gloria,BR-Rio_de_Janeiro-NULL-Rio_de_Janeiro-Zona_Sul-Botafogo,BR-Rio_de_Janeiro-NULL-Rio_de_Janeiro-Zona_Sul-Catete,BR-Rio_de_Janeiro-NULL-Rio_de_Janeiro-Zona_Sul-Laranjeiras,BR-Rio_de_Janeiro-NULL-Rio_de_Janeiro-Zona_Central-Centro,BR-Rio_de_Janeiro-NULL-Rio_de_Janeiro-Zona_Sul-Copacabana&quartos=1'
